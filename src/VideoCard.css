@@ -1,0 +1,26 @@
+.videoCard {
+  width: 250px;
+  margin-bottom: 35px;
+  margin-right: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.videoCard__thumbnail {
+  height: 140px;
+  width: 250px;
+}
+
+.videoCard__info {
+  display: flex;
+  margin-top: 8px;
+}
+
+.video__text {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #606060;
+}
